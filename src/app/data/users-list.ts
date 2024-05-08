@@ -16,12 +16,12 @@ export const UsersList: IUser[] = [
         telefone: '11912345678',
         ativo: true,
         funcao: 'Desenvolvedor',
-        dataCadastro: '2023-08-02T09:00:00:0023',
+        dataCadastro: '2023-08-02T09:00:00.0023Z',
         status: {
             online: true,
             verificado: true,
             assinaturaAtiva: true,
-            ultimoAcesso: '2023-08-30T09:00:00:0023'
+            ultimoAcesso: '2023-08-30T09:00:00.0023Z'
         }
     },
     {
@@ -39,12 +39,12 @@ export const UsersList: IUser[] = [
         telefone: '21345678901',
         ativo: true,
         funcao: 'Designer',
-        dataCadastro: '2023-10-15T10:30:00:0023',
+        dataCadastro: '2023-10-15T10:30:00.0023Z',
         status: {
             online: false,
             verificado: true,
             assinaturaAtiva: false,
-            ultimoAcesso: '2023-11-20T14:45:00:0023'
+            ultimoAcesso: '2023-11-20T14:45:00.0023Z'
         }
     },
     {
@@ -60,14 +60,14 @@ export const UsersList: IUser[] = [
             pais: 'Brasil'
         },
         telefone: '3133334444',
-        ativo: true,
+        ativo: false,
         funcao: 'Analista de Negócios',
-        dataCadastro: '2023-11-28T08:15:00:0023',
+        dataCadastro: '2023-11-28T08:15:00.0023Z',
         status: {
             online: true,
             verificado: true,
             assinaturaAtiva: true,
-            ultimoAcesso: '2024-04-14T11:20:00:0023'
+            ultimoAcesso: '2024-04-14T11:20:00.0023Z'
         }
     },
     {
@@ -85,12 +85,12 @@ export const UsersList: IUser[] = [
         telefone: '41987654321',
         ativo: true,
         funcao: 'Analista de Marketing',
-        dataCadastro: '2023-09-18T09:45:00:0023',
+        dataCadastro: '2023-09-18T09:45:00.0023Z',
         status: {
             online: true,
             verificado: true,
             assinaturaAtiva: false,
-            ultimoAcesso: '2024-03-10T16:30:00:0023'
+            ultimoAcesso: '2024-03-10T16:30:00.0023Z'
         }
     },
     {
@@ -106,14 +106,14 @@ export const UsersList: IUser[] = [
             pais: 'Brasil'
         },
         telefone: '51987654321',
-        ativo: true,
+        ativo: false,
         funcao: 'Gerente de Projetos',
-        dataCadastro: '2023-12-05T11:00:00:0023',
+        dataCadastro: '2023-12-05T11:00:00.0023Z',
         status: {
             online: false,
             verificado: true,
             assinaturaAtiva: true,
-            ultimoAcesso: '2024-02-28T13:10:00:0023'
+            ultimoAcesso: '2024-02-28T13:10:00.0023Z'
         }
     },
     {
@@ -131,12 +131,12 @@ export const UsersList: IUser[] = [
         telefone: '71987654321',
         ativo: true,
         funcao: 'Analista Financeiro',
-        dataCadastro: '2023-07-25T08:30:00:0023',
+        dataCadastro: '2023-07-25T08:30:00.0023Z',
         status: {
             online: true,
             verificado: true,
             assinaturaAtiva: true,
-            ultimoAcesso: '2024-04-13T10:45:00:0023'
+            ultimoAcesso: '2024-04-13T10:45:00.0023Z'
         }
     },
     {
@@ -154,12 +154,12 @@ export const UsersList: IUser[] = [
         telefone: '85987654321',
         ativo: true,
         funcao: 'Analista de Recursos Humanos',
-        dataCadastro: '2023-08-30T10:20:00:0023',
+        dataCadastro: '2023-08-30T10:20:00.0023Z',
         status: {
             online: false,
             verificado: true,
             assinaturaAtiva: false,
-            ultimoAcesso: '2024-01-22T09:15:00:0023'
+            ultimoAcesso: '2024-01-22T09:15:00.0023Z'
         }
     },
     {
@@ -177,12 +177,12 @@ export const UsersList: IUser[] = [
         telefone: '81987654321',
         ativo: true,
         funcao: 'Analista de Qualidade',
-        dataCadastro: '2023-06-12T14:00:00:0023',
+        dataCadastro: '2023-06-12T14:00:00.0023Z',
         status: {
             online: true,
             verificado: true,
             assinaturaAtiva: true,
-            ultimoAcesso: '2024-04-05T15:50:00:0023'
+            ultimoAcesso: '2024-04-05T15:50:00.0023Z'
         }
     },
     {
@@ -200,12 +200,12 @@ export const UsersList: IUser[] = [
         telefone: '61987654321',
         ativo: true,
         funcao: 'Engenheiro de Software',
-        dataCadastro: '2023-04-22T13:30:00:0023',
+        dataCadastro: '2023-04-22T13:30:00.0023Z',
         status: {
             online: false,
             verificado: true,
             assinaturaAtiva: false,
-            ultimoAcesso: '2023-12-18T12:25:00:0023'
+            ultimoAcesso: '2023-12-18T12:25:00.0023Z'
         }
     },
     {
@@ -223,12 +223,12 @@ export const UsersList: IUser[] = [
         telefone: '92987654321',
         ativo: true,
         funcao: 'Analista de Sistemas',
-        dataCadastro: '2023-05-28T09:45:00:0023',
+        dataCadastro: '2023-05-28T09:45:00.0023Z',
         status: {
             online: true,
             verificado: true,
             assinaturaAtiva: false,
-            ultimoAcesso: '2024-03-30T10:20:00:0023'
+            ultimoAcesso: '2024-03-30T10:20:00.0023Z'
         }
     },
     {
@@ -246,12 +246,12 @@ export const UsersList: IUser[] = [
         telefone: '69987654321',
         ativo: true,
         funcao: 'Analista de Suporte',
-        dataCadastro: '2023-02-10T11:20:00:0023',
+        dataCadastro: '2023-02-10T11:20:00.0023Z',
         status: {
             online: false,
             verificado: true,
             assinaturaAtiva: true,
-            ultimoAcesso: '2024-02-15T09:35:00:0023'
+            ultimoAcesso: '2024-02-15T09:35:00.0023Z'
         }
     }
     
